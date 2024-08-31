@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on gym progress website, a website to track your gym progress.
-- 🌱 I’m currently learning JS Fundamentals.
+- 🌱 I’m currently learning JS Fundamentals and Go.
 - 📫 How to reach me: sashankr97@gmail.com
 <!--
 **Sashankr/Sashankr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
